@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋 Hello! I'm Aguinaldo Medeiros Júnior, a programming enthusiast and back-end developer. 😄💻<br><br>💼 Objective: Back-end Developer<br>🌍 Location: Brasília, DF<br>📚 Skills: Java, Spring Boot, RESTful APIs<br>🎓 Education: Bachelor of Computer Engineering - In Progress<br>🔧 GitHub: AguinaldoMedeiros<br>💼 LinkedIn: Aguinaldo Medeiros<br><br>Let's collaborate and create amazing things together! 🌟✨<br><br>Keep coding! 💪💻🚀
+<br>👋 Hello! I'm Aguinaldo Medeiros, a programming enthusiast and back-end developer. 😄💻<br><br>💼 Objective: Back-end Developer<br>🌍 Location: Brasília, DF<br>📚 Skills: Java, Spring Boot, RESTful APIs<br>🎓 Education: Bachelor of Computer Engineering - In Progress<br>🔧 GitHub: AguinaldoMedeiros<br>💼 LinkedIn: Aguinaldo Medeiros<br><br>Let's collaborate and create amazing things together! 🌟✨<br><br>Keep coding! 💪💻🚀
 
 
 ## 🌐 Socials:
