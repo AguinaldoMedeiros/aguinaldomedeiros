@@ -13,10 +13,9 @@
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=AguinaldoMedeiros&theme=gotham&hide_border=false"></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AguinaldoMedeiros&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></td>
+    <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AguinaldoMedeiros&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></td>
   </tr>
 </table>
-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AguinaldoMedeiros&limit=5&theme=dark&combine_all_yearly_contributions=true)
